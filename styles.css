@@ -1,0 +1,59 @@
+#container {
+    position: relative;
+    margin: 0 auto;
+    width: 1200px;
+    height: 600px;
+    background: black;
+}
+
+.caja {
+    height: 185px;
+    background: rgb(216, 65, 90);
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+}
+.uno {
+    width: 585px;
+    position: absolute;
+    top: 10px;
+    bottom: ;
+    right: ;
+    left: 10px;
+}
+
+.dos {
+    width: 585px;
+    position: absolute;
+    top: 10px;
+    bottom: ;
+    right: ;
+    left: 605px;
+}
+
+.tres {
+    width: 280px;
+    position: absolute;
+    top: 205px;
+    bottom: ;
+    right: ;
+    left: 10px;
+}
+
+.cuatro {
+    width: 890px;
+    position: absolute;
+    top: 205px;
+    bottom: ;
+    right: ;
+    left: 300px;
+}
+
+.cinco {
+    width: 1180px;
+    position: absolute;
+    top: 400px;
+    bottom: ;
+    right: 10px;
+    left: ;
+}
